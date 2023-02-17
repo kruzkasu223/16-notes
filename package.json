@@ -10,6 +10,7 @@
     "export": "next build && next export"
   },
   "dependencies": {
+    "@formkit/auto-animate": "^1.0.0-beta.6",
     "daisyui": "^2.50.1",
     "jotai": "^2.0.2",
     "next": "13.1.6",
